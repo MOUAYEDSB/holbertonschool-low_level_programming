@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _isdigit - check if num=[0-9]
+* _isupper - check if num=[0-9]
 * @c: int
 * Return: Always 0 (Success)
 */
