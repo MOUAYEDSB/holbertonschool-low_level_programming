@@ -6,14 +6,10 @@
 * Return: Always 0 (Success)
 */
 
-int _isdigit(int c)
+int _isupper(int c)
 {
-	if (c >= 48 && c < 58)
-	{
+	if (c > 64 && c <= 90)
 		return (1);
-	}
 	else
-	{
 		return (0);
-	}
 }
