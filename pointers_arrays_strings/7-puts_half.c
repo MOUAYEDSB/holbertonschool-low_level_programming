@@ -2,7 +2,7 @@
 #include "string.h"
 
 /**
-* puts_half: print half
+* puts_half - print half
 * @str: string
 *
 **/
