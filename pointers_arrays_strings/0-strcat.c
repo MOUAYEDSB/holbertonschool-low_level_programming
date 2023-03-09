@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _stract - strcat
+* _strcat - concatenates tow strings
 * @src: string
 * @dest: string
 * Return: dest
