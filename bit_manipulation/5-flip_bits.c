@@ -15,7 +15,9 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 	difference = n ^ m;
 
 	/* keep shifting difference to right and tallying the ones up */
+
 	do
+
 	{
 		diff_bits += (difference & 1);
 		difference >>= 1;
